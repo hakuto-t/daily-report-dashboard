@@ -1,0 +1,39 @@
+{
+  "10652422": {
+    "name": "藤田瑛二",
+    "account_id": 10652422,
+    "status": "active",
+    "join_date": "2025-09-11",
+    "notes": ""
+  },
+  "10893844": {
+    "name": "乗松一聖",
+    "account_id": 10893844,
+    "status": "active",
+    "join_date": "2025-12-15",
+    "notes": ""
+  },
+  "11055607": {
+    "name": "藤原由乃",
+    "account_id": 11055607,
+    "status": "active",
+    "join_date": "2026-02-16",
+    "notes": ""
+  },
+  "8058515": {
+    "name": "小林直希",
+    "account_id": 8058515,
+    "status": "graduated",
+    "join_date": "2023-04-01",
+    "graduated_date": "2026-01-01",
+    "notes": "独り立ち済み"
+  },
+  "9206000": {
+    "name": "白栁愛菜",
+    "account_id": 9206000,
+    "status": "graduated",
+    "join_date": "2024-04-01",
+    "graduated_date": "2026-01-01",
+    "notes": "独り立ち済み"
+  }
+}

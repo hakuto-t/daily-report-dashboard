@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+auto_collect.log
+_test_*
+scripts/_debug_*
+過去のチャット日報ログ.txt
